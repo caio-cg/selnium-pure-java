@@ -1,0 +1,15 @@
+# Maven target directory
+./target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
